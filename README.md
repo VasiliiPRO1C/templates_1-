@@ -1,1 +1,1 @@
-# templates_1-
+# 1C code templates - Шаблоны кода 1С
